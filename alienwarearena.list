@@ -22,3 +22,4 @@ DOMAIN-SUFFIX,tiktok.com
 DOMAIN-KEYWORD,tiktok
 DOMAIN-SUFFIX,mmbiz.qpic.cn
 DOMAIN-KEYWORD,qpic
+IP-CIDR,116.211.0.0/32,no-resolve
