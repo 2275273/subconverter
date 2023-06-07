@@ -17,3 +17,6 @@ DOMAIN-SUFFIX,cicihappy.com
 DOMAIN-KEYWORD,cicihappy
 DOMAIN-SUFFIX,steamgifts.com
 DOMAIN-KEYWORD,steamgifts
+IP-CIDR,192.9.242.194,no-resolve
+IP-CIDR,138.2.226.155,no-resolve
+IP-CIDR,192.18.128.179,no-resolve
