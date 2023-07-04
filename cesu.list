@@ -1,19 +1,19 @@
 # 内容：测试线路
 # 数量：2条
-DOMAIN-SUFFIX,keylol.com
-DOMAIN-KEYWORD,keylol
-DOMAIN-SUFFIX,hpgamestream.com
-DOMAIN-KEYWORD,hpgamestream
-DOMAIN-SUFFIX,hp.com
-DOMAIN-SUFFIX,dyndns.com
-DOMAIN-KEYWORD,dyndns
-DOMAIN-KEYWORD,hpbp
-DOMAIN-SUFFIX,hpbp.io
-DOMAIN-KEYWORD,sonkwo
-DOMAIN-SUFFIX,sonkwo.hk
-DOMAIN-SUFFIX,omen.com
-DOMAIN-KEYWORD,omen
-DOMAIN-SUFFIX,cicihappy.com
-DOMAIN-KEYWORD,cicihappy
-DOMAIN-SUFFIX,steamgifts.com
-DOMAIN-KEYWORD,steamgifts
+DOMAIN-SUFFIX,keylol.com,no-resolve
+DOMAIN-KEYWORD,keylol,no-resolve
+DOMAIN-SUFFIX,hpgamestream.com,no-resolve
+DOMAIN-KEYWORD,hpgamestream,no-resolve
+DOMAIN-SUFFIX,hp.com,no-resolve
+DOMAIN-SUFFIX,dyndns.com,no-resolve
+DOMAIN-KEYWORD,dyndns,no-resolve
+DOMAIN-KEYWORD,hpbp,no-resolve
+DOMAIN-SUFFIX,hpbp.io,no-resolve
+DOMAIN-KEYWORD,sonkwo,no-resolve
+DOMAIN-SUFFIX,sonkwo.hk,no-resolve
+DOMAIN-SUFFIX,omen.com,no-resolve
+DOMAIN-KEYWORD,omen,no-resolve
+DOMAIN-SUFFIX,cicihappy.com,no-resolve
+DOMAIN-KEYWORD,cicihappy,no-resolve
+DOMAIN-SUFFIX,steamgifts.com,no-resolve
+DOMAIN-KEYWORD,steamgifts,no-resolve
