@@ -1,4 +1,4 @@
-# 内容：alienwarearena
+# 内容：节点线路
 # 数量：3条
 DOMAIN-SUFFIX,alienwarearena.com,no-resolve
 DOMAIN-KEYWORD,alienwarearena,no-resolve
@@ -22,3 +22,5 @@ DOMAIN-SUFFIX,tiktok.com,no-resolve
 DOMAIN-KEYWORD,tiktok,no-resolve
 DOMAIN-SUFFIX,bing.com,no-resolve
 DOMAIN-KEYWORD,bing,no-resolve
+DOMAIN-SUFFIX,helloword.com.cn,no-resolve
+DOMAIN-KEYWORD,helloword,no-resolve
