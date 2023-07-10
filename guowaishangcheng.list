@@ -1,5 +1,5 @@
 # 内容：humblebundle等国外购买站
 # 数量：3条
-DOMAIN-SUFFIX,humblebundle.com,no-resolve
-DOMAIN-SUFFIX,fanatical.com,no-resolve
-DOMAIN-KEYWORD,humblebundle,no-resolve
+DOMAIN-SUFFIX,humblebundle.com
+DOMAIN-SUFFIX,fanatical.com
+DOMAIN-KEYWORD,humblebundle
