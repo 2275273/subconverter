@@ -30,3 +30,4 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,imgix.net
 # imgix.net是用在steamgift上面的仪表盘显示
+DOMAIN-SUFFIX,sgtools.info
