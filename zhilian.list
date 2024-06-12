@@ -37,7 +37,3 @@ DOMAIN-SUFFIX,tvfuwu.com
 DOMAIN-KEYWORD,tencentcs
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-KEYWORD,deepl
-#电视的域名白名单
-DOMAIN-SUFFIX,atianqi.com
-DOMAIN-SUFFIX,funshion.com
-DOMAIN-SUFFIX,dangbei.com
