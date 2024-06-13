@@ -32,3 +32,6 @@ DOMAIN-SUFFIX,imgix.net
 # imgix.net是用在steamgift上面的仪表盘显示
 DOMAIN-SUFFIX,sgtools.info
 DOMAIN-SUFFIX,steamgifts.com
+DOMAIN-SUFFIX,compose-spec.io
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
