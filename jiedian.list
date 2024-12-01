@@ -14,8 +14,6 @@ DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-KEYWORD,v2rayssr
 DOMAIN-KEYWORD,oracle
 DOMAIN-SUFFIX,oracle.com
-DOMAIN-KEYWORD,afreecatv
-DOMAIN-SUFFIX,afreecatv.com
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-KEYWORD,paypal
 DOMAIN-SUFFIX,bing.com
@@ -32,6 +30,4 @@ DOMAIN-SUFFIX,sgtools.info
 DOMAIN-SUFFIX,compose-spec.io
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
-DOMAIN-SUFFIX,missav.com
-DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,midjourney
